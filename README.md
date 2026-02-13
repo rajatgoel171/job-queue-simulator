@@ -41,7 +41,7 @@ npm run demo
 
 
 
-## Progress Note 5
+## Progress Note 6
 
-- 2026-02-01: documented service readiness, implementation progress, and release hygiene for job-queue-simulator.
+- 2026-02-13: documented service readiness, implementation progress, and release hygiene for job-queue-simulator.
 - Captured validation notes for observability, operational checks, and handoff readiness.
