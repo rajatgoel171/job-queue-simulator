@@ -75,3 +75,8 @@ npm run demo
 
 - 2026-01-04: added another progress checkpoint covering documentation, release readiness, and operational follow-up.
 - Kept the README as the single source of status updates for this repository.
+
+## Update 18
+
+- 2026-02-16: added another progress checkpoint covering documentation, release readiness, and operational follow-up.
+- Kept the README as the single source of status updates for this repository.
