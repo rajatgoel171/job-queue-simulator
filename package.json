@@ -1,0 +1,13 @@
+{
+  "name": "job-queue-simulator",
+  "version": "1.0.0",
+  "description": "In-memory job queue with retries, backoff, concurrency, and dead-letter handling.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/demo.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
